@@ -1,14 +1,13 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2024-09-27'
+title: 'A Chrome extension that leverages the power of AI to instantly summarize articles'
+github: 'https://github.com/kazibweyassin/AIBrief.git'
+external: 'https://github.com/kazibweyassin/AIBrief.git'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - HTML
+  - Javascript
+  - Chrome
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+An AIQuickSummarize is a Chrome extension that leverages the power of AI to instantly summarize articles, blogs, research papers, and other web content. With just a click, users can extract key points from lengthy text using state-of-the-art AI models, making reading more efficient and convenient.

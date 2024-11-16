@@ -1,14 +1,14 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2023-11-01'
+title: 'AIRBNB CLONE'
+github: 'https://github.com/kazibweyassin/AirBnB_clone_v4.git'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - C
+  - HTML
+  - PYTHON
+company: 'ALX'
 showInProjects: false
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+● Built and maintained an AirBnB clone through the full software lifecycle:

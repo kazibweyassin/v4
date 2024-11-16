@@ -1,15 +1,15 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2024-10-01'
+title: 'COVID-19-DASHBOARD'
+github: 'https://github.com/kazibweyassin/COVID-19-DASHBOARD.git'
 external: ''
 tech:
-  - Angular
+  - REACT
   - Node
   - Express
   - MongoDB
-company: 'Northeastern'
+company: ''
 showInProjects: false
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+A dashboard built using react to show covid-19 levels over time.

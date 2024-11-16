@@ -1,14 +1,14 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+date: '2024-12-01'
+title: 'Rango Tenge Tenge'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://tengecharityorganisation.org/'
 tech:
-  - MusicKit.js
+  - HTML
   - JS
   - SCSS
-company: 'Apple'
+company: 'Rango Tenge Tenge'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Served as the lead development team for the development of a Donor Management System: Created a custom donor management platform that streamlined donation tracking and increased donor retention by 25%

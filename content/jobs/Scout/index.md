@@ -1,11 +1,13 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2029-04-01'
+title: 'Data Analyst '
+company: 'Fastworld Solutions'
+location: 'Kampala Uganda'
+range: 'Spring 2019 & 2020'
+url: 'https://fastworld.com'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Conducted data analysis using Excel and SPSS for various clients.
+- Created detailed reports and dashboards to visualize data insights.
+- Provided actionable recommendations based on data analysis.
+- Developed automated Excel templates to streamline data processing.

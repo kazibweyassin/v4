@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Remote Job Platform '
+cover: './image-1.png'
+github: 'https://github.com/kazibweyassin/nextjob.io.git'
+external: 'https://remotenomad.netlify.app//'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React.js, HTML, CSS,
+  - Tailwind
+  - Node.js, Express.js
+  - MongoDB (Mongoose)
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A Web app where job seekers can apply for jobs and employers can post jobs.

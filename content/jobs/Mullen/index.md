@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2022-10-21'
+title: 'Software Developer'
+company: 'Rango Tenge Tenge'
+location: 'Kampala, UG'
+range: 'Oct 2022 - Todate '
+url: 'https://tengecharityorganisation.org/'
 ---
 
 - Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
